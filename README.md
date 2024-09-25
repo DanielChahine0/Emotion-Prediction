@@ -17,3 +17,8 @@ I used the GPT-2 model, a powerful language model that can generate text. By tra
 1. Data Preparation: Clean and prepare the Daily Dialogue data. This includes breaking down the text and labeling it with emotions.
 2. Model Training: Train the GPT-2 model with the prepared data. The model learns to predict emotions by adjusting its parameters.
 3. Evaluation: Test the model’s performance using measures like accuracy to see how well it predicts emotions.
+
+## Tools & Technologies
+- Python, PyTorch, GPT-2
+- Hugging Face Transformers
+- Datasets from "Daily Dialogue"
